@@ -29,7 +29,7 @@
       "temp-dir": "",
       "v8version": "8.3.25.1394",
       "plugins-config": {
-        "URL": "https://github.com/IvanLopatin81/otus_JenkinsExample.git"
+        "URL": "https://github.com/IvanLopatin81/OTUS_JENKINS_TEST.git"
       }
     },
     {
@@ -40,7 +40,7 @@
         "temp-dir": "",
         "v8version": "8.3.25.1394",
         "plugins-config": {
-          "URL": "https://github.com/IvanLopatin81/otus_JenkinsExample.git"
+          "URL": "https://github.com/IvanLopatin81/OTUS_JENKINS_TEST.git"
         }
      }
   ]
